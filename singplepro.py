@@ -15,3 +15,4 @@ for i in range (0,10):
         print(' {} squared results in a/an {} number'.format(i, basic_func(y)))
 
 print('That took {} seconds'.format(time.time() - starttime))
+# test
